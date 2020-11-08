@@ -1,0 +1,31 @@
+body {
+  background-color: #3b8b4c;
+}
+.main {
+  position: relative;
+}
+.contents {
+  position: absolute;
+  color: rgb(31, 26, 17); /*文字は白に*/
+  font-weight: bold; /*太字に*/
+  font-size: 2em; /*サイズ2倍*/
+  font-family: Georgia, "Times New Roman", Times, serif;
+  top: 0;
+  left: 50;
+}
+img {
+  opacity: 1;
+}
+.photo {
+  width: 100%;
+}
+.header {
+  background-color: #324a32;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: #979912;
+}
+input {
+  padding: 30px 35px;
+}
